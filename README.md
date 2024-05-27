@@ -1,8 +1,6 @@
 <p align="center"><mp4 src="https://github.com/HendraVPN/Script/blob/main/image/113131-720x1200.mp4"></p>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=SCRIPT BAR-BAR ANTI TEPAR">
-</p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF0000&center=true&random=false&width=435&lines=SCRIPT+BAR-BAR+ANTI+TEPAR" alt="Typing SVG" /></a>
 
 <p align="center"><img src="https://github.com/HendraVPN/Script/blob/main/image/20240508_061921.png"></p>
 
