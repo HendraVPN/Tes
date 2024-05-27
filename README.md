@@ -1,7 +1,7 @@
 <p align="center"><mp4 src="https://github.com/HendraVPN/Script/blob/main/image/113131-720x1200.mp4"></p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines="SCRIPT BAR-BAR ANTI TEPAR" />
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=SCRIPT BAR-BAR ANTI TEPAR">
 </p>
 
 <p align="center"><img src="https://github.com/HendraVPN/Script/blob/main/image/20240508_061921.png"></p>
