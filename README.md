@@ -1,8 +1,6 @@
-https://github.com/HendraVPN/Script/blob/main/image/113131-720x1200.mp4
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poetsen+One&size=25&pause=1000&color=F70000&background=000000&center=true&vCenter=true&random=true&width=435&lines=HENDRA+VPN+STORE" alt="Typing SVG" /></a>
 
-[![Watch the video]([https://github.com/HendraVPN/Script/blob/main/image/113131-720x1200.mp4])
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF0000&center=true&random=false&width=435&lines=SCRIPT+BAR-BAR+ANTI+TEPAR" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Anton&size=25&pause=1000&color=F70000&background=000000&center=true&vCenter=true&random=true&width=435&lines=SCRIPT+BAR-BAR+ANTI+TEPAR" alt="Typing SVG" /></a>
 
 <p align="center"><img src="https://github.com/HendraVPN/Script/blob/main/image/20240508_061921.png"></p>
 
@@ -21,7 +19,7 @@ Mod By SL
 
 ## Warning!!!
 Minimal Kalo Mau Pake Sewa Lah Script Nya Jangan Nyomot Aja Taunya
-Yang Nyomot Gw Sumpahin Berak Baru Kerikil Ampe Mampus🗿
+Yang Nyomot Gw Sumpahin Berak Batu Kerikil Ampe Mampus🗿
 
 ## Sewa Autoscript
 ```html
